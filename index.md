@@ -75,6 +75,8 @@ We invite submissions that either address new problems and provide insights or p
 
 We expect most submissions to be around 4 pages in length. If your submission will be longer than 4 pages, there is no need to move material to an appendix as long as the full submission is within 10 pages, not counting references. Submissions will be accepted as contributed talks or poster presentations. Extended abstracts should be submitted by Sep 17, 2021. Papers must be submitted through the Open Review submission system. A link to this system will be posted here soon. Final versions will be posted on the workshop website (and are archival but do not constitute a proceedings). Authors should use the standard [Neurips 2021 style files](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles)
 
+Work that is presented at the main NeurIPS conference, or accepted for publication somewherelse, will not be accepted for presentation at the workshop.
+
 ## Important Dates
 
 - Submission Date for Workshop Contributions: Sep 17, 2021 23:59 Anywhere on earth
@@ -83,7 +85,7 @@ We expect most submissions to be around 4 pages in length. If your submission wi
 
 ## Organizing Committee and Contact
 
-For questions, please contact [kc429@cam.ac.uk](kc429@cam.ac.uk)
+For questions, please contact [ellis-admin@eng.cam.ac.uk](ellis-admin@eng.cam.ac.uk)
 
 - Cheng Zhang
 - Yingzhen Li

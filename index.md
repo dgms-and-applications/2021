@@ -73,6 +73,8 @@ We invite submissions that either address new problems and provide insights or p
 
 We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.
 
+The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
+
 ### Submission Instructions
 
 We expect most submissions to be around 4 pages in length. If your submission will be longer than 4 pages, there is no need to move material to an appendix as long as the full submission is within 10 pages, not counting references. Submissions will be accepted as contributed talks or poster presentations. Extended abstracts should be submitted by Sep 17, 2021. Papers must be submitted through the Open Review submission system. A link to this system will be posted here soon. Final versions will be posted on the workshop website (and are archival but do not constitute a proceedings). Authors should use the standard [Neurips 2021 style files](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles)
@@ -80,8 +82,6 @@ We expect most submissions to be around 4 pages in length. If your submission wi
 Work that is presented at the main NeurIPS conference, or accepted for publication somewhere else, will not be accepted for presentation at the workshop.
 
 Please submit at [Open Review](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DGMs_Applications)
-
-The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 
 ## Important Dates
 

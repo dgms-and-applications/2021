@@ -79,7 +79,9 @@ We expect most submissions to be around 4 pages in length. If your submission wi
 
 Work that is presented at the main NeurIPS conference, or accepted for publication somewhere else, will not be accepted for presentation at the workshop.
 
-Please submit at [Open Source](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DGMs_Applications)
+Please submit at [Open Review](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DGMs_Applications)
+
+The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 
 ## Important Dates
 

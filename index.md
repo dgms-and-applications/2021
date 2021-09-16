@@ -54,8 +54,7 @@ The Deep Generative Models and Downstream Applications Workshop is part of the 3
 
 ## Call for Papers
 
-The 2021 NeurIPS Workshop on Deep Generative Models and Downstream Applications is calling for contributions in the area of deep generative modeling, with a view on using these methods to solve real-world problems with practical impact. We invite researchers to submit methodological contributions in either variational autoencoders, flows, autoregressive
-models, energy based models or GANs, as well as applications of these methods to specific real-world problems. Potential applications include but are not limited to the following areas: 
+The 2021 NeurIPS Workshop on Deep Generative Models and Downstream Applications is calling for contributions in the area of deep generative modeling, with a view on using these methods to solve real-world problems with practical impact. We invite researchers to submit methodological contributions in either variational autoencoders, flows, autoregressive models, energy based models or GANs, as well as applications of these methods to specific real-world problems. Potential applications include but are not limited to the following areas: 
 - imputation and acquisition of missing data
 - anomaly detection
 - data denoising
@@ -100,5 +99,5 @@ For questions, please contact [ellis-admin@eng.cam.ac.uk](ellis-admin@eng.cam.ac
 - Weiwei Pan
 - Yichuan Zhang
 - Austin Tripp
-- Oren Ripple
+- Oren Rippel
 

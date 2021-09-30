@@ -85,7 +85,7 @@ Please submit at [Open Review](https://openreview.net/group?id=NeurIPS.cc/2021/W
 ## Important Dates
 
 - <SPAN STYLE="text-decoration:line-through">Submission Date for Workshop Contributions: Sep 17, 2021 23:59 Anywhere on earth</SPAN> 
-- Submission Date for Workshop Contributions: Oct 1, 2021 23:59 Anywhere on earth
+- Submission Date for Workshop Contributions: Oct 3, 2021 23:59 Anywhere on earth
 - Author notification: Oct 22, 2021
 - Workshop: Dec 14, 2021
 

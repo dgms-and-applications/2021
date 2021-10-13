@@ -8,7 +8,7 @@
 
 We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.
 
-![Picture 3](https://user-images.githubusercontent.com/38696018/137134116-aeee6b22-fb11-4a37-b8bb-1455280c2c48.png)
+![Picture 3](https://user-images.githubusercontent.com/38696018/137134329-8b61a92d-20a9-4dbf-9c1b-b95e3404d77b.png)(http://www.ellis.eng.cam.ac.uk)
 
 The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 

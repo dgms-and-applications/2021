@@ -3,16 +3,17 @@
 [About](#about) - [Accepted Papers](#accepted-papers) - [Schedule](#schedule) - [Poster Session](#poster-session)
 
 ### Sponsors
-
-![Picture 1](https://user-images.githubusercontent.com/38696018/137133387-37a674a9-e397-4006-a21f-beb75c5cf770.jpg) www.microsoft.com
 <p align="center">
+![Picture 1](https://user-images.githubusercontent.com/38696018/137133387-37a674a9-e397-4006-a21f-beb75c5cf770.jpg) [www.microsoft.com](www.microsoft.com)
+
   <img src="https://user-images.githubusercontent.com/38696018/137133589-1a5d3f07-170b-40d2-b35a-2ac731a5b36e.jpg" />
-</p>
-![Picture 2](https://user-images.githubusercontent.com/38696018/137133589-1a5d3f07-170b-40d2-b35a-2ac731a5b36e.jpg) boltzbit.com 
+
+ [boltzbit.com](boltzbit.com) </p>
 
 We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.
-
-![Picture 3](https://user-images.githubusercontent.com/38696018/137134329-8b61a92d-20a9-4dbf-9c1b-b95e3404d77b.png) http://www.ellis.eng.cam.ac.uk
+<p align="center">
+![Picture 3](https://user-images.githubusercontent.com/38696018/137134329-8b61a92d-20a9-4dbf-9c1b-b95e3404d77b.png) 
+  [http://www.ellis.eng.cam.ac.uk](http://www.ellis.eng.cam.ac.uk)</p>
 
 The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 

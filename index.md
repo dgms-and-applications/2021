@@ -4,7 +4,7 @@
 
 ### Sponsors
 
-![Picture 1](https://user-images.githubusercontent.com/38696018/137133387-37a674a9-e397-4006-a21f-beb75c5cf770.jpg)![Picture 2](https://user-images.githubusercontent.com/38696018/137133453-6ee233bf-4d4f-44c5-90cd-fb007bc87e0d.jpg)
+![Picture 1](https://user-images.githubusercontent.com/38696018/137133387-37a674a9-e397-4006-a21f-beb75c5cf770.jpg)![Picture 2](https://user-images.githubusercontent.com/38696018/137133589-1a5d3f07-170b-40d2-b35a-2ac731a5b36e.jpg)
 
 We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.
 ![Logo_ELLIS Unit Cambridge](https://user-images.githubusercontent.com/38696018/137131778-9a221d9b-fad0-49d1-80d5-e72ed3d0f4dc.png)

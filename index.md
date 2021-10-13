@@ -2,6 +2,11 @@
 
 [About](#about) - [Accepted Papers](#accepted-papers) - [Schedule](#schedule) - [Poster Session](#poster-session)
 
+### Sponsors
+
+We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.
+
+The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 ### Schedule 
 
 [See NeurIPS website](https://neurips.cc)
@@ -45,8 +50,7 @@ Despite such important application areas, advances in DGMs are typically quantif
 
 At present, there is a gap between researchers working on new DGM-based methods and researchers applying such methods to practical problems (like the ones mentioned above). We aim to fill in this gap by bringing the two aforementioned communities together. We will connect basic researchers working in the area of DGMs with relevant application areas where their methods could have significant practical impact. We will also connect practitioners with the most recent methodological advances in deep generative modeling.
 
-In a highly interactive format, we will outline the current frontiers of practical applications and methodological contributions in DGMs. We aim to use this workshop as an opportunity to establish common language across diverse communities, to actively discuss new research problems, and to collect relevant benchmark tasks by which novel data modeling methods can be benchmarked. The program is a collection of invited talks, alongside contributed posters. A panel discussion will provide different perspectives and experiences of influential researchers and also engage in open participant conversation. An expected outcome of this workshop is the
-interdisciplinary exchange of ideas and initiation of collaborations.
+In a highly interactive format, we will outline the current frontiers of practical applications and methodological contributions in DGMs. We aim to use this workshop as an opportunity to establish common language across diverse communities, to actively discuss new research problems, and to collect relevant benchmark tasks by which novel data modeling methods can be benchmarked. The program is a collection of invited talks, alongside contributed posters. A panel discussion will provide different perspectives and experiences of influential researchers and also engage in open participant conversation. An expected outcome of this workshop is the interdisciplinary exchange of ideas and initiation of collaborations.
 
 ### NeurIPS 2021 and Registration
 
@@ -67,10 +71,6 @@ The 2021 NeurIPS Workshop on Deep Generative Models and Downstream Applications 
 - generation of molecular structures, etc. 
 
 We invite submissions that either address new problems and provide insights or present progress on established problems. The workshop includes a poster session, which will be held online, giving the opportunity to present novel ideas and ongoing projects.
-
-We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.
-
-The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 
 ### Submission Instructions
 

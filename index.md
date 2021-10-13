@@ -5,7 +5,10 @@
 ### Sponsors
 <p align="center">
 <img src="https://user-images.githubusercontent.com/38696018/137133387-37a674a9-e397-4006-a21f-beb75c5cf770.jpg"> </p>
-<p align="center">www.microsoft.com</p>
+<div style="text-align:center">    
+  <a href="www.microsoft.com">www.microsoft.com</a>
+  <!-- more links here -->
+</div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38696018/137133589-1a5d3f07-170b-40d2-b35a-2ac731a5b36e.jpg"> </p>
 

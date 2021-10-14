@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38696018/137133589-1a5d3f07-170b-40d2-b35a-2ac731a5b36e.jpg"> </p>
 
- <p align="center"<a href="www.boltzbit.com<">boltzbit.com</a> </p>
+ <p align="center"><a href="www.boltzbit.com<">boltzbit.com</a> </p>
 
 We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.
 <p align="center">

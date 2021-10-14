@@ -7,16 +7,16 @@
 <img src="https://user-images.githubusercontent.com/38696018/137133387-37a674a9-e397-4006-a21f-beb75c5cf770.jpg"> </p>
 <p align="center"><a href="www.microsoft.com<">www.microsoft.com</a></p>
   
-</div>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38696018/137133589-1a5d3f07-170b-40d2-b35a-2ac731a5b36e.jpg"> </p>
 
- <p align="center">www.boltzbit.com </p>
+ <p align="center"<a href="www.boltzbit.com<">boltzbit.com</a> </p>
 
 We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/38696018/137134329-8b61a92d-20a9-4dbf-9c1b-b95e3404d77b.png"> </p>
- <p align="center"> www.ellis.eng.cam.ac.uk</p>
+ <p align="center"><a href="www.ellis.eng.cam.ac.uk<">www.ellis.eng.cam.ac.uk</a></p>
 
 The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 

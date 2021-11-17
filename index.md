@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/38696018/137134329-8b61a92d-20a9-4dbf-9c1b-b95e3404d77b.png"> </p>
  <p align="center"><a href="www.ellis.eng.cam.ac.uk<">www.ellis.eng.cam.ac.uk</a></p>
 
-The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
+#### The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 
 ### Schedule 
 

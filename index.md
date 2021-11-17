@@ -13,7 +13,7 @@
 
  <p align="center"><a href="www.boltzbit.com<">boltzbit.com</a> </p>
 
-<font size="4">We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.</font>
+#### We have two paper awards worth £500, sponsored by Microsoft and Boltzbit.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/38696018/137134329-8b61a92d-20a9-4dbf-9c1b-b95e3404d77b.png"> </p>
  <p align="center"><a href="www.ellis.eng.cam.ac.uk<">www.ellis.eng.cam.ac.uk</a></p>

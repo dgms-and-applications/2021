@@ -23,8 +23,8 @@
 ### Schedule 
 
 
-2:00-2:10 p.m. (GMT).  | Opening Remarks (Presentation)
----   | ---   | ---
+| 2:00-2:10 p.m. (GMT).  | Opening Remarks (Presentation) 
+| ---   | ---   | ---
 2:10-2:25 p.m. (GMT)| Invited talk \1: Aapo Hyvarinen (Presentation)
 1 | 2 | 3
 [See NeurIPS website](https://neurips.cc)

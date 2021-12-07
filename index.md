@@ -22,12 +22,45 @@
 
 ### Schedule 
 
-
-| 2:00 p.m. - 2:10 p.m. | Opening remarks (Presentation) |   |   |   |
-|-----------------------|--------------------------------|---|---|---|
-|                       |                                |   |   |   |
-|                       |                                |   |   |   |
-|                       |                                |   |   |   |
+| 2:00 p.m. - 2:10 p.m. (GMT) 9:00 a.m. - 9:10 a.m. (EST)   | Opening remarks (Presentation)                                                                              |
+|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 2:10 p.m. - 2:25 p.m. (GMT) 9:10 a.m. - 9:25 a.m. (EST)   | Invited talk #1: Aapo Hyvärinen (Presentation)                                                              |
+| 2:25 p.m. - 2:30 p.m. (GMT) 9:25 a.m. - 9:30 a.m. (EST)   | Q&A Invited Talk #1 (Q&A)                                                                                   |
+| 2:30 p.m. - 2:45 p.m. (GMT) 9:30 a.m. - 9:45 a.m. (EST)   | Invited talk #2: Finale Doshi-Velez (Presentation)                                                          |
+| 2:45 p.m. - 2:50 p.m. (GMT) 9:45 a.m. - 9:50 a.m. (EST)   | Q&A Invited Talk #2 (Q&A)                                                                                   |
+| 2:50 p.m. - 3:05 p.m. (GMT) 9:50 a.m. - 10:05 a.m. (EST)  | Invited Talk #3: Rianne van den Berg (Presentation)                                                         |
+| 3:05 p.m. - 3:10 p.m. (GMT) 10:05 a.m. - 10:10 a.m. (EST) | Q&A Invited Talk #3 (Q&A)                                                                                   |
+| 3:10 p.m. - 3:20 p.m. (GMT) 10:10 a.m. - 10:20 a.m. (EST) | Particle Dynamics for Learning EBMs (Oral)                                                                  |
+| 3:20 p.m. - 3:30 p.m. (GMT) 10:20 a.m. - 10:30 a.m. (EST) | VAEs meet Diffusion Models: Efficient and High-Fidelity Generation (Oral)                                   |
+| 3:30 p.m. - 3:35 p.m. (GMT) 10:30 a.m. - 10:35 a.m. (EST) | Contributed poster talk #1-2 Q&A (Q&A)                                                                      |
+| 3:35 p.m. - 4:00 p.m. (GMT) 10:35 a.m. - 11:00 a.m. (EST) | Break #1                                                                                                    |
+| 4:00 p.m. - 4:15 p.m. (GMT) 11:00 a.m. - 11:15 a.m. (EST) | Invited talk #4: Chris Williams (Presentation)                                                              |
+| 4:15 p.m. - 4:20 p.m. (GMT) 11:15 a.m. - 11:20 a.m. (EST) | Q&A Invited Talk #4                                                                                         |
+| 4:20 p.m. - 4:35 p.m. (GMT) 11:20 a.m. - 11:35 a.m. (EST) | Invited talk #5: Mihaela van der Shaar (Presentation)                                                       |
+| 4:35 p.m. - 4:40 p.m. (GMT) 11:35 a.m. - 11:40 a.m. (EST) | Q&A Invited Talk #5                                                                                         |
+| 4:40 p.m. - 4:55 p.m. (GMT) 11:40 a.m. - 11:55 a.m. (EST) | Invited Talk #6: Luisa Zintgraf (Presentation)                                                              |
+| 4:55 p.m. - 5:00 p.m. (GMT) 11:55 a.m. - 12:00 p.m. (EST) | Q&A Invited Talk #6                                                                                         |
+| 5:00 p.m. - 5:10 p.m. (GMT) 12:00 p.m. - 12:10 p.m. (EST) | Your Dataset is a Multiset and You Should Compress it Like One (Oral)                                       |
+| 5:10 p.m. - 5:20 p.m. (GMT) 12:10 p.m. - 12:20 p.m. (EST) | Contributed poster talk #3 Q&A + Best paper awards                                                          |
+| 5:20 p.m. - 6:00 p.m. (GMT) 12:20 p.m. - 1:00 p.m. (EST)  | Break #2                                                                                                    |
+| 6:00 p.m. - 7:00 p.m. (GMT) 1:00 p.m. - 2:00 p.m. (EST)   | Poster session #1 (gathertown)                                                                              |
+| 7:00 p.m. - 7:30 p.m. (GMT) 2:00 p.m. - 2:30 p.m. (EST)   | Panel Discussion                                                                                            |
+| 7:30 p.m. - 7:45 p.m. (GMT) 2:30 p.m. - 2:45 p.m. (EST)   | Invited Talk #7: Romain Lopez (Presentation)                                                                |
+| 7:45 p.m. - 7:50 p.m. (GMT) 2:45 p.m. - 2:50 p.m. (EST)   | Q&A Invited Talk #7                                                                                         |
+| 7:50 p.m. - 8:10 p.m. (GMT) 2:50 p.m. - 3:10 p.m. (EST)   | Break #3                                                                                                    |
+| 8:10 p.m. - 8:25 p.m. (GMT) 3:10 p.m. - 3:25 p.m. (EST)   | Invited talk #8: Alex Anderson (Presentation)                                                               |
+| 8:25 p.m. - 8:30 p.m. (GMT) 3:25 p.m. - 3:30 p.m. (EST)   | Q&A Invited Talk #8                                                                                         |
+| 8:30 p.m. - 8:40 p.m. (GMT) 3:30 p.m. - 3:40 p.m. (EST)   | AGE: Enhancing the Convergence on GANs using Alternating  extra-gradient with Gradient Extrapolation (Oral) |
+| 8:40 p.m. - 8:50 p.m. (GMT) 3:40 p.m. - 3:50 p.m. (EST)   | Sample-Efficient Generation of Novel Photo-acid Generator  Molecules using a Deep Generative Model (Oral)   |
+| 8:50 p.m. - 8:55 p.m. (GMT) 3:50 p.m. - 3:55 p.m. (EST)   | Contributed poster talk #5-6 Q&A                                                                            |
+| 8:55 p.m. - 9:10 p.m. (GMT) 3:55 p.m. - 4:10 p.m. (EST)   | Invited talk #9: Zhifeng Kong (Presentation)                                                                |
+| 9:10 p.m. - 9:15 p.m. (GMT) 4:10 p.m. - 4:15 p.m. (EST)   | Q&A Invited Talk #9                                                                                         |
+| 9:15 p.m. - 9:30 p.m. (GMT) 4:15 p.m. - 4:30 p.m. (EST)   | Invited talk #10: Johannes Ballé (Presentation)                                                             |
+| 9:30 p.m. - 9:35 p.m. (GMT) 4:30 p.m. - 4:35 p.m. (EST)   | Q&A Invited Talk #10                                                                                        |
+| 9:35 p.m. - 9:45 p.m. (GMT) 4:35 p.m. - 4:45 p.m. (EST)   | Bayesian Image Reconstruction using Deep Generative Models (Oral)                                           |
+| 9:45 p.m. - 9:55 p.m. (GMT) 4:45 p.m. - 4:55 p.m. (EST)   | Grapher: Multi-Stage Knowledge Graph Construction using Pretrained  Language Models (Oral)                  |
+| 9:55 p.m. - 10:00 p.m. (GMT) 4:55 p.m. - 5:00 p.m. (EST)  | Contributed poster talk #7-8 Q&A                                                                            |
+| 10:00 p.m. - 11:00 p.m. (GMT) 5:00 p.m. - 6:00 p.m. (EST) | Poster session #2 (gathertown)                                                                              |                                                                                            
 
 [See NeurIPS website](https://neurips.cc)
 

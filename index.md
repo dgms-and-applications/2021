@@ -23,11 +23,12 @@
 ### Schedule 
 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| 2:00-2:10 p.m. (GMT).  | Opening Remarks (Presentation) |
-| --- | ---   | --- |
-2:10-2:25 p.m. (GMT)| Invited talk \1: Aapo Hyvarinen (Presentation)|
-1 | 2 | 3
+| 2:00 p.m. - 2:10 p.m. | Opening remarks (Presentation) |   |   |   |
+|-----------------------|--------------------------------|---|---|---|
+|                       |                                |   |   |   |
+|                       |                                |   |   |   |
+|                       |                                |   |   |   |
+
 [See NeurIPS website](https://neurips.cc)
 
 ### Invited Speakers

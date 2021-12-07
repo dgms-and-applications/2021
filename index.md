@@ -23,7 +23,6 @@
 ### Schedule 
 
 | 2:00 p.m. - 2:10 p.m. (GMT) 9:00 a.m. - 9:10 a.m. (EST)   | Opening remarks                                                                                      |
-|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | 2:10 p.m. - 2:30 p.m. (GMT) 9:10 a.m. - 9:30 a.m. (EST)   | Invited talk #1: Aapo Hyvärinen                                                                      |
 | 2:30 p.m. - 2:50 p.m. (GMT) 9:30 a.m. - 9:50 a.m. (EST)   | Invited talk #2: Finale Doshi-Velez                                                                  |
 | 2:50 p.m. - 3:10 p.m. (GMT) 9:50 a.m. - 10:10 a.m. (EST)  | Invited Talk #3: Rianne van den Berg                                                                 |

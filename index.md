@@ -116,6 +116,7 @@ List of Keynote Abstracts
 | Howard Zhong, Guha Balakrishnan, Richard Strong Bowen, Ramin Zabih, William T. Freeman                                            | [Finding Maximally Informative Patches in Images](https://github.com/dgms-and-applications/2021/raw/4f97edea18089f3e8543798681020183b9776bbb/finding_maximally_informative_.pdf)                                                                              | Poster |
 | Gautham Narayan Narasimhan, Kai Zhang, Ben Eisner, Xingyu Lin, David Held                                                         | [Transparent Liquid Segmentation for Robotic Pouring](https://github.com/dgms-and-applications/2021/raw/4f97edea18089f3e8543798681020183b9776bbb/transparent_liquid_segmentatio.pdf)                                                                          | Poster |
 
+
 ### Poster Session
 
 Join the Postersession via [GatherTown](https://www.gather.town) (via NeurIPS SSO login)

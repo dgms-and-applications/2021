@@ -115,6 +115,8 @@ List of Keynote Abstracts
 | Jiaxin Zhang, Kyle Saleeby, Thomas Feldhausen, Sirui Bi, Alex Plotkowski, David Womble                                            | Self-Supervised Anomaly Detection via Neural Autoregressive Flows with Active Learning                                       |
 | Howard Zhong, Guha Balakrishnan, Richard Strong Bowen, Ramin Zabih, William T. Freeman                                            | Finding Maximally Informative Patches in Images                                                                              |
 | Gautham Narayan Narasimhan, Kai Zhang, Ben Eisner, Xingyu Lin, David Held                                                         | Transparent Liquid Segmentation for Robotic Pouring                                                                          |
+
+
 ### Poster Session
 
 Join the Postersession via [GatherTown](https://www.gather.town) (via NeurIPS SSO login)

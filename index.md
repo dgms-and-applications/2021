@@ -1,6 +1,6 @@
 ## Deep Generative Models and Downstream Applications Workshop- 14 December 2021
 
-[About](#about) - [Accepted Papers](#accepted-papers) - [Schedule](#schedule) - [Poster Session](#poster-session)
+[Sponsors](#sponsors) - [Schedule](#schedule)- [Speakers](#invited-speakers) - [Accepted Papers](#accepted-papers)  - [Poster Session](#poster-session) - [About](#about)
 
 ### Sponsors
 <p align="center">

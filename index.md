@@ -71,7 +71,7 @@ List of Keynote Abstracts
 ### Accepted Papers
 
 | Authors                                                                                                                           | Title                                                                                                                        |
-|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | Igor Melnyk, Pierre Dognin, Payel Das                                                                                             | Grapher: Multi-Stage Knowledge Graph Construction using Pretrained Language Models                                           |
 | Jan Zuiderveld, Marco Federici, Erik J Bekkers                                                                                    | Towards Lightweight Controllable Audio Synthesis with Conditional Implicit Neural Representations                            |
 | Daniel Severo, James Townsend, Ashish J Khisti, Alireza Makhzani, Karen Ullrich                                                   | Your Dataset is a Multiset and You Should Compress it Like One                                                               |

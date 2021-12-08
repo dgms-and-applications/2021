@@ -72,7 +72,7 @@ List of Keynote Abstracts
 
 | Authors                                                                                                                           | Title                                                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Igor Melnyk, Pierre Dognin, Payel Das                                                                                             | [Grapher: Multi-Stage Knowledge Graph Construction using Pretrained Language Models](https://github.com/dgms-and-applications/2021/blob/5db72fab6fc032191fdedcf25e4044ee9529593a/grapher_multi_stage_knowledge_.pdf)                                         |
+| Igor Melnyk, Pierre Dognin, Payel Das                                                                                             | [Grapher: Multi-Stage Knowledge Graph Construction using Pretrained Language Models](https://github.com/dgms-and-applications/2021/blob/5db72fab6fc032191fdedcf25e4044ee9529593a/grapher_multi_stage_knowledge_.pdf)                                           |
 | Jan Zuiderveld, Marco Federici, Erik J Bekkers                                                                                    | Towards Lightweight Controllable Audio Synthesis with Conditional Implicit Neural Representations                            |
 | Daniel Severo, James Townsend, Ashish J Khisti, Alireza Makhzani, Karen Ullrich                                                   | Your Dataset is a Multiset and You Should Compress it Like One                                                               |
 | Samuel C Hoffman, Vijil Chenthamarakshan, Dmitry Zubarev, Daniel P Sanders, Payel Das                                             | Sample-Efficient Generation of Novel Photo-acid Generator Molecules using a Deep Generative Model                            |
@@ -115,7 +115,6 @@ List of Keynote Abstracts
 | Jiaxin Zhang, Kyle Saleeby, Thomas Feldhausen, Sirui Bi, Alex Plotkowski, David Womble                                            | Self-Supervised Anomaly Detection via Neural Autoregressive Flows with Active Learning                                       |
 | Howard Zhong, Guha Balakrishnan, Richard Strong Bowen, Ramin Zabih, William T. Freeman                                            | Finding Maximally Informative Patches in Images                                                                              |
 | Gautham Narayan Narasimhan, Kai Zhang, Ben Eisner, Xingyu Lin, David Held                                                         | Transparent Liquid Segmentation for Robotic Pouring                                                                          |
-
 
 ### Poster Session
 

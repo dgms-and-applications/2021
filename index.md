@@ -36,7 +36,7 @@
 | 5:00 p.m. - 5:10 p.m. (GMT) 12:00 p.m. - 12:10 p.m. (EST) | Your Dataset is a Multiset and You Should Compress it Like One                                       |
 | 5:10 p.m. - 5:20 p.m. (GMT) 12:10 p.m. - 12:20 p.m. (EST) | Contributed poster talk #3 Q&A + Best paper awards                                                   |
 | 5:20 p.m. - 6:00 p.m. (GMT) 12:20 p.m. - 1:00 p.m. (EST)  | Break #2                                                                                             |
-| 6:00 p.m. - 7:00 p.m. (GMT) 1:00 p.m. - 2:00 p.m. (EST)   | Poster session #1 (gathertown)                                                                       |
+| 6:00 p.m. - 7:00 p.m. (GMT) 1:00 p.m. - 2:00 p.m. (EST)   | Poster session #1- [Gathertown](https://eventhosts.gather.town/tjiIamTIwPtLRF5R/neurips-template-6)                                                                       |
 | 7:00 p.m. - 7:30 p.m. (GMT) 2:00 p.m. - 2:30 p.m. (EST)   | Panel Discussion                                                                                     |
 | 7:30 p.m. - 7:50 p.m. (GMT) 2:30 p.m. - 2:50 p.m. (EST)   | Invited Talk #7: Romain Lopez                                                                        |
 | 7:50 p.m. - 8:10 p.m. (GMT) 2:50 p.m. - 3:10 p.m. (EST)   | Break #3                                                                                             |
@@ -49,7 +49,7 @@
 | 9:35 p.m. - 9:45 p.m. (GMT) 4:35 p.m. - 4:45 p.m. (EST)   | Bayesian Image Reconstruction using Deep Generative Models                                           |
 | 9:45 p.m. - 9:55 p.m. (GMT) 4:45 p.m. - 4:55 p.m. (EST)   | Grapher: Multi-Stage Knowledge Graph Construction using Pretrained  Language Models                  |
 | 9:55 p.m. - 10:00 p.m. (GMT) 4:55 p.m. - 5:00 p.m. (EST)  | Contributed poster talk #7-8 Q&A                                                                     |
-| 10:00 p.m. - 11:00 p.m. (GMT) 5:00 p.m. - 6:00 p.m. (EST) | Poster session #2 (gathertown)                                                                       |                                                        
+| 10:00 p.m. - 11:00 p.m. (GMT) 5:00 p.m. - 6:00 p.m. (EST) | Poster session #2 -[Gathertown](https://eventhosts.gather.town/tjiIamTIwPtLRF5R/neurips-template-6)                                                                     |                                                        
 
 [See NeurIPS website](https://neurips.cc)
 
@@ -120,7 +120,7 @@ List of Keynote Abstracts
 
 ### Poster Session
 
-Join the Postersession via [GatherTown](https://www.gather.town) (via NeurIPS SSO login)
+Join the Postersession via [[Gathertown](https://eventhosts.gather.town/tjiIamTIwPtLRF5R/neurips-template-6) (via NeurIPS SSO login)
 
 ### About
 

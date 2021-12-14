@@ -23,7 +23,7 @@
 
 ### Schedule 
 
-#### Click [here](https://neurips.cc/virtual/2021/workshop/21878) to join the workshop talks, and click here to join [Gathertown](https://eventhosts.gather.town/tjiIamTIwPtLRF5R/neurips-template-6) 
+#### Workshop- Click [here](https://neurips.cc/virtual/2021/workshop/21878) to join the workshop talks, and click here to join [Gathertown](https://eventhosts.gather.town/tjiIamTIwPtLRF5R/neurips-template-6) 
 
 | 2:00 p.m. - 2:10 p.m. (GMT) 9:00 a.m. - 9:10 a.m. (EST)   | Opening remarks                                                                                      |
 | 2:10 p.m. - 2:30 p.m. (GMT) 9:10 a.m. - 9:30 a.m. (EST)   | Invited talk #1: Aapo Hyvärinen                                                                      |

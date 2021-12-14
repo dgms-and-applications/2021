@@ -1,6 +1,6 @@
 ## Deep Generative Models and Downstream Applications Workshop- 14 December 2021
 
-[Sponsors](#sponsors) - [Schedule](#schedule)- [Speakers](#invited-speakers) - [Accepted Papers](#accepted-papers)  - [Poster Session](#poster-session) - [About](#about)
+[Sponsors](#sponsors) - [Workshop](#click)- [Schedule](#schedule)- [Speakers](#invited-speakers) - [Accepted Papers](#accepted-papers)  - [Poster Session](#poster-session) - [About](#about)
 
 ### Sponsors
 <p align="center">
@@ -20,7 +20,10 @@
 
 #### The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 
+
 ### Schedule 
+
+## Click [here](https://neurips.cc/virtual/2021/workshop/21878) to join the workshop talks, and click here to join [Gathertown](https://eventhosts.gather.town/tjiIamTIwPtLRF5R/neurips-template-6) 
 
 | 2:00 p.m. - 2:10 p.m. (GMT) 9:00 a.m. - 9:10 a.m. (EST)   | Opening remarks                                                                                      |
 | 2:10 p.m. - 2:30 p.m. (GMT) 9:10 a.m. - 9:30 a.m. (EST)   | Invited talk #1: Aapo Hyvärinen                                                                      |

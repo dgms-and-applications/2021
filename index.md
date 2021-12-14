@@ -21,8 +21,10 @@
 #### The Cambridge ELLIS unit will cover workshop registration fees for up to 10 under-represented participants.
 
 ### Workshop- 
+
 #### Click [here](https://neurips.cc/virtual/2021/workshop/21878) to join the workshop talks
-#### Click here to join [Gathertown](https://eventhosts.gather.town/tjiIamTIwPtLRF5R/neurips-template-6)
+#### Click [here](https://eventhosts.gather.town/tjiIamTIwPtLRF5R/neurips-template-6) to join Gathertown
+
 ### Schedule 
  
 
